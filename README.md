@@ -1,2 +1,2 @@
-# HTML-CSS-E-T-CARET-S-TES-
+# HTML-CSS-E-TİCARET WEP-SİTESİ
 E Ticaret Sitesi Wep Tasarım Geliştirme 
